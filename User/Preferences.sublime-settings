@@ -1,12 +1,14 @@
 {
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme",
-	"font_face": "DejaVu Sans Mono",
-	"font_size": 10,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 10.5,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SideBarFolders",
+		"SideBarGit",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,

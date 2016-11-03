@@ -1,6 +1,9 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SideBarFolders",
+		"SideBarGit"
 	],
 	"installed_packages":
 	[
