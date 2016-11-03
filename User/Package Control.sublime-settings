@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ColorSchemeSelector",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"Theme - Alpenglow"
+	]
+}
