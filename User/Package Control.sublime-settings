@@ -5,8 +5,10 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Autoprefixer",
 		"BracketHighlighter",
 		"ColorSchemeSelector",
+		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"Sass",
