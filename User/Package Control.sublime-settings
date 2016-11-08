@@ -2,8 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"SideBarFolders",
-		"SideBarGit"
 	],
 	"installed_packages":
 	[
@@ -14,12 +12,14 @@
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
+		"Print to HTML",
 		"Sass",
 		"SideBarEnhancements",
-		"SideBarFolders",
-		"SideBarGit",
 		"SublimeCodeIntel",
 		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-phpcs",
 		"Theme - Alpenglow"
 	]
 }
