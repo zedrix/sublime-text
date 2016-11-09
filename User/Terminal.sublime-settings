@@ -1,0 +1,4 @@
+{
+  "terminal": "C:\\Users\\Turing\\.babun\\cygwin\\bin\\mintty.exe",
+  "parameters": ["C:\\Users\\Turing\\.babun\\cygwin\\bin\\bash.exe","-l","-c", "cd $0;exec zsh","%CWD%"]
+}

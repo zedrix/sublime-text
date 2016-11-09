@@ -2,13 +2,13 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"ColorSchemeSelector",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
@@ -23,6 +23,7 @@
 		"SublimeLinter",
 		"SublimeLinter-json",
 		"SublimeLinter-phpcs",
+		"Terminal",
 		"Theme - Alpenglow"
 	]
 }
